@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Tanisha! 🌸
+Welcome to my GitHub profile! I'm
+💫 Currently a sophomore, pursuing B.Tech in Artificial Intelligence and Machine Learning from Indira Gandhi Delhi Technical University for Women.
 
-<!--
-**tanishamonga/tanishamonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Let's code, create, and collaborate to shape the future of technology together!
 
 Here are some ideas to get you started:
 
